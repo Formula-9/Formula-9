@@ -7,7 +7,9 @@ Institut Universitaire de Technologie de Limoges (IUT Limoges). I am a computer 
 at the higher levels. I also enjoy programming puzzles, as I find them fun to solve, and they are an excellent way to learn new tricks.
 
 <p align="center">
-  <img src="https://www.codewars.com/users/Formula-9/badges/large" />
+  <a href="https://www.codewars.com/users/Formula-9">
+    <img src="https://www.codewars.com/users/Formula-9/badges/large" />
+  </a>
   <p align="center" width="50"><i>(This is bragging, when I am far, very far from being the most skilled programmer on this planet. Still have a lot to learn, but that's part of the fun ! 😄)</i></p>
 </p>
 
